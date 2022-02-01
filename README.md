@@ -1,6 +1,5 @@
 ### Hi there 👋
 <!--
-
 **qalmaqihir/qalmaqihir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -36,7 +35,7 @@ Used these
 ## Some insights
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qalmaqihir&count_private=true&show_icons=true&hide=contribs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=qalmaqihir&count_private=true&show_icons=true&hide=contribs" />
 </a>
 <a href="https://github.com/qalmaqihir/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qalmaqihir&layout=compact" />
