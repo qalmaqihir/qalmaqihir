@@ -44,9 +44,9 @@ Used these
 
 ## Some achievements 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qalmaqihir&layout=compact)](https://git.io/streak-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=qalmaqihir&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qalmaqihir&layout=compact)](https://git.io/streak-stats)
 
 
 ## Languages
