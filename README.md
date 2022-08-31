@@ -27,7 +27,6 @@ Github Lang card
 Used these
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=qalmaqihir&count_private=true&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qalmaqihir&layout=compact)](https://github.com/qalmaqihir/github-readme-stats)
 -->
 
@@ -43,10 +42,8 @@ Used these
 
 
 ## Some achievements 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=qalmaqihir&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qalmaqihir&layout=compact)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qalmaqihir)](https://git.io/streak-stats)
 
 
 ## Languages
