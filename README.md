@@ -37,7 +37,7 @@ Used these
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=qalmaqihir&count_private=true&show_icons=true&hide=contribs" />
 </a>
 <a href="https://github.com/qalmaqihir/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qalmaqihir&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qalmaqihir&layout=compact" />
 </a>
 
 
