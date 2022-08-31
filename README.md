@@ -30,7 +30,7 @@ Used these
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qalmaqihir&layout=compact)](https://github.com/qalmaqihir/github-readme-stats)
 -->
-
+`Jawad, Computer Science graduate class of 2022 from University of Central Asia. Interested in anything interesting to me, I go for the goals I set and not stop until I accomplish them. Although have a slide ideosycracy for setting the bar high sometimes. :)`
 
 ## Some insights
 <a href="">
