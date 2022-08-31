@@ -30,7 +30,8 @@ Used these
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qalmaqihir&layout=compact)](https://github.com/qalmaqihir/github-readme-stats)
 -->
-`Jawad, Computer Science graduate class of 2022 from University of Central Asia. Interested in anything interesting to me, I go for the goals I set and not stop until I accomplish them. Although have a slide ideosycracy for setting the bar high sometimes. :)`
+
+`Jawad, Computer Science graduate; class of 2022 from the University of Central Asia. Interested in anything interesting to me, I go for the goals I set and not stop until I accomplish them. Although have a slide ideosycracy for setting the bar high sometimes. :)`
 
 ## Some insights
 <a href="">
@@ -42,9 +43,11 @@ Used these
 
 
 ## Some achievements 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qalmaqihir&layout=compact)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=qalmaqihir&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qalmaqihir)](https://git.io/streak-stats)
 
 ## Languages
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/?s_tid=mlh_gn_logo" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.r-project.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a> </p>
